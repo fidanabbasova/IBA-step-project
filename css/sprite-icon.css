@@ -1,0 +1,29 @@
+.sprite {
+    background-image: url('../img/spritesheet.png');
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-icon-devices {
+    width: 99px;
+    height: 76px;
+    background-position: -5px -5px;
+}
+
+.sprite-icon-diamond {
+    width: 93px;
+    height: 75px;
+    background-position: -114px -5px;
+}
+
+.sprite-icon-light {
+    width: 60px;
+    height: 96px;
+    background-position: -217px -5px;
+}
+
+.sprite-icon-touch {
+    width: 58px;
+    height: 97px;
+    background-position: -287px -5px;
+}
